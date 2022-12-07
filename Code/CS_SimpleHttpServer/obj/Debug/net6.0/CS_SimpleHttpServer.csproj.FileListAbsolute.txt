@@ -1,0 +1,15 @@
+C:\Users\devel\Desktop\CS_SimpleHttpServer\CS_SimpleHttpServer\bin\Debug\net6.0\CS_SimpleHttpServer.exe
+C:\Users\devel\Desktop\CS_SimpleHttpServer\CS_SimpleHttpServer\bin\Debug\net6.0\CS_SimpleHttpServer.deps.json
+C:\Users\devel\Desktop\CS_SimpleHttpServer\CS_SimpleHttpServer\bin\Debug\net6.0\CS_SimpleHttpServer.runtimeconfig.json
+C:\Users\devel\Desktop\CS_SimpleHttpServer\CS_SimpleHttpServer\bin\Debug\net6.0\CS_SimpleHttpServer.dll
+C:\Users\devel\Desktop\CS_SimpleHttpServer\CS_SimpleHttpServer\bin\Debug\net6.0\CS_SimpleHttpServer.pdb
+C:\Users\devel\Desktop\CS_SimpleHttpServer\CS_SimpleHttpServer\obj\Debug\net6.0\CS_SimpleHttpServer.csproj.AssemblyReference.cache
+C:\Users\devel\Desktop\CS_SimpleHttpServer\CS_SimpleHttpServer\obj\Debug\net6.0\CS_SimpleHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devel\Desktop\CS_SimpleHttpServer\CS_SimpleHttpServer\obj\Debug\net6.0\CS_SimpleHttpServer.AssemblyInfoInputs.cache
+C:\Users\devel\Desktop\CS_SimpleHttpServer\CS_SimpleHttpServer\obj\Debug\net6.0\CS_SimpleHttpServer.AssemblyInfo.cs
+C:\Users\devel\Desktop\CS_SimpleHttpServer\CS_SimpleHttpServer\obj\Debug\net6.0\CS_SimpleHttpServer.csproj.CoreCompileInputs.cache
+C:\Users\devel\Desktop\CS_SimpleHttpServer\CS_SimpleHttpServer\obj\Debug\net6.0\CS_SimpleHttpServer.dll
+C:\Users\devel\Desktop\CS_SimpleHttpServer\CS_SimpleHttpServer\obj\Debug\net6.0\refint\CS_SimpleHttpServer.dll
+C:\Users\devel\Desktop\CS_SimpleHttpServer\CS_SimpleHttpServer\obj\Debug\net6.0\CS_SimpleHttpServer.pdb
+C:\Users\devel\Desktop\CS_SimpleHttpServer\CS_SimpleHttpServer\obj\Debug\net6.0\CS_SimpleHttpServer.genruntimeconfig.cache
+C:\Users\devel\Desktop\CS_SimpleHttpServer\CS_SimpleHttpServer\obj\Debug\net6.0\ref\CS_SimpleHttpServer.dll
